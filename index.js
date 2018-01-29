@@ -3,3 +3,7 @@
 function happyHolidays(string) {
   return string.happyHolidays()
 }
+
+function happyHolidaysTo(string) {
+  
+}
